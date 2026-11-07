@@ -1,0 +1,2 @@
+export const SHOWINGS_SERVICE = Symbol('SHOWINGS_SERVICE');
+export const BOOKINGS_SERVICE = Symbol('BOOKINGS_SERVICE');
